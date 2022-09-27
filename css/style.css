@@ -21,6 +21,10 @@ h1{
     float: left;
 }
 
+.half-width img{
+    width: 100%;
+}
+
 .top-banner{
     display:flex;
     background-image: url("images/top-banner.png");
