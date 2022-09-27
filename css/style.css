@@ -25,5 +25,4 @@ h1{
     display:flex;
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-    border: 5px solid red;
 }
