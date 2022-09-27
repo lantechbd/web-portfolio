@@ -12,16 +12,22 @@ h1{
 
 }
 
-.section1{
+.section-top{
     display:flex;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 }
 
 .half-width{
     width: 40%;
-    float: left;
     margin-left: 5%;
     padding: 2%;
 }
+
 .half-width img{
     width: 100%;
+}
+
+section{
+    height: 500px;
 }
