@@ -30,3 +30,12 @@ h1{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
