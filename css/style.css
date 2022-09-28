@@ -43,3 +43,19 @@ h1{
     background-position: right;
     height: 500px;
 }
+
+.single-experience{
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.experiance-area{
+    background-image: url("../images/exp-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+}
